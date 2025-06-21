@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vaibhav Bhadane 👋
 
-<!--
-**VaibhavBytebuddy/VaibhavBytebuddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCS Student | 💻 Full Stack Java Developer | 🌱 Learner | 🧠 DSA Solver
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Backend:** Java, Spring Boot, Spring Security, Hibernate  
+**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap  
+**Database:** MySQL, MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code, IntelliJ
+
+## 📌 Projects
+
+| Project | Tech Stack | Description | Link |
+|--------|------------|-------------|------|
+| 📚 Book Directory App | Java, Spring Boot, MySQL | CRUD Book management system | [Repo](#) |
+| 👨‍🎓 Student Attendance App | Android, Fingerprint API, Firebase | Secure attendance with biometric & location | [Repo](#) |
+| 📈 Weather App | React, OpenWeather API | Weather search by city/location | [Repo](#) |
+| 💬 Chatbot | Python, ChatterBot | Simple learning chatbot | [Repo](#) |
+
+## 📫 Contact Me
+
+- ✉️ Email: [om7666bhadane@gmail.com](mailto:om7666bhadane@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/vaibhavbhadane](#)  
