@@ -18,6 +18,7 @@
 
 | Project | Tech Stack | Description | Link |
 |--------|------------|-------------|------|
+| 💻 CodeBuddyHub | React, Spring Boot,Mongodb | LeetCode type platform | [Repo](https://code-buddy-hub.vercel.app/) |
 | 👨‍🎓 Student Attendance App | Android, Fingerprint API, Firebase | Biometric and GPS-based attendance system | [Repo](#) |
 | 🌤️ Weather App | React, OpenWeather API | Live weather search by city or current location | [Repo](https://github.com/VaibhavBytebuddy/WeatherApp) |
 | 💻 Online Java Editor | React, Spring Boot | Browser-based Java code execution tool | [Repo](https://github.com/VaibhavBytebuddy/javaIDEBackend) |
